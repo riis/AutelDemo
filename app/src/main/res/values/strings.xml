@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Autel Object Detection</string>
+
+    <string name="not_connected">No drone connected.</string>
+    <string name="connected">%1$s connected.</string>
+</resources>
